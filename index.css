@@ -1,0 +1,46 @@
+body {
+    background-color: #1e555c;
+    font-size: 20px;
+    font-family: 'Righteous', cursive;
+    color: white;
+    display: flex;
+}
+
+#app {
+    padding: 50px;
+    margin: auto;
+    text-align: center;
+}
+
+.time-change {
+    display: inline-flex;
+    flex-direction: row;
+    padding: 0 0 15px 0;
+}
+
+.session-time {
+    font-family: 'Righteous', cursive;
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    border: 10px solid #14363a;
+    border-radius: 100px;
+    padding: 0 100px;
+    max-width: 300px;
+}
+
+.time-runner {
+    font-size: 60px;
+}
+
+.icons {
+    padding: 30px;
+}
+
+.time-change i {
+    padding: 0 20px;
+}
+
+#pause {
+    display: none;
+}
