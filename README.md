@@ -1,4 +1,4 @@
-# Promodo-Clock
+# Pomodoro-Clock
 
 [Check it out](https://tarekalmanabri.github.io/Pomodoro-Clock/)
 
